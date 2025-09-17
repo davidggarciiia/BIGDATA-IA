@@ -24,7 +24,7 @@ Feel free to browse the different sections of the course. Each folder contains a
 
 * [**Applied Big Data** 📈](./APPLIED-BIG-DATA/README.md)
 
-* [**Project** 🎓](./PROJECT/README.md)
+* [**Project** 🎓](./PROJECT/)
 
 I hope you enjoy exploring my work. Don't hesitate to contact me if you have any questions! 📫
 
