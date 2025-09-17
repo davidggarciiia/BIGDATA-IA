@@ -14,16 +14,17 @@ Practical Projects: Real-world use cases where I apply what I've learned to solv
 Explore the Content 📁
 Feel free to browse the different sections of the course. Each folder contains a README.md with a detailed summary of the activities, projects, and goals for that subject.
 
-AI Models 🧠
+* [**AI Models** 🧠](./ai-models/README.md)
 
-Machine Learning Systems 🤖
+* [**Machine Learning Systems** 🤖](./machine-learning-systems/README.md)
 
-AI Programming 💻
+* [**AI Programming** 💻](./ai-programming/README.md)
 
-Big Data Systems 💾
+* [**Big Data Systems** 💾](./big-data-systems/README.md)
 
-Applied Big Data 📈
+* [**Applied Big Data** 📈](./applied-big-data/README.md)
 
-Final Project 🎓
+* [**Final Project** 🎓](./final-project/README.md)
 
 I hope you enjoy exploring my work. Don't hesitate to contact me if you have any questions! 📫
+
